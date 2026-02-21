@@ -40,6 +40,7 @@ Web Pentesting • API Security • Python/Django Developer
 
 ### Connect
 
-LinkedIn • TryHackMe • Blog
+- [LinkedIn](https://www.linkedin.com/in/siyadhkc)
+
 
 > Focused on growing into an Application Security Researcher.
