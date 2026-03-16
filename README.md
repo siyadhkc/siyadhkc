@@ -39,7 +39,7 @@ Before pivoting to full-stack development through an intensive 10-month deployme
 
 ### 📊 Telemetry
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_NEW_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_NEW_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff" height="150" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=siyadhkc&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=siyadhkc&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff" height="150" alt="GitHub Streak" />
 
 </div>
