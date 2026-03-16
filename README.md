@@ -49,8 +49,9 @@ Identifying and mitigating vulnerabilities before they reach production.
 ---
 
 ### 📂 Active Projects
-* **[Secure-Asset-Manager](https://github.com/siyadhkc)**: A production-grade backend focused on secure auditing and real-time tracking.
+* **[MockAPI Pro](https://github.com/siyadhkc)**: a self-hostable mock API server with team workspaces, rule engine, OpenAPI import, and AI-powered response generation.
 * **[API-Security-Lab](https://github.com/siyadhkc)**: My research repository for pentesting methodologies and vulnerability analysis.
+
 
 ---
 <p align="center"><i>I build it, I break it, I secure it.</i></p>
