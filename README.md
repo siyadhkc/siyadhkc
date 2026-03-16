@@ -1,37 +1,55 @@
-## siyadhkc · Backend Engineer
+<div align="center">
 
-Django · DRF · React · PostgreSQL · Redis · Celery · Docker · Channels · JWT · Pytest
-
-Building backend systems with a focus on API architecture and security. Background in physical network infrastructure — deployed enterprise hardware and structured networks before writing production code. That foundation shapes how I think about reliability, latency, and system boundaries.
-
-Currently building **[MockAPI Pro](https://github.com/siyadhkc)** — a self-hostable mock API server with team workspaces, rule engine, OpenAPI import, and AI-powered response generation.
-
-Next: **VulnAPI** — a Python-native REST API DAST scanner covering OWASP API Top 10.
+# SIYADH KC
+**Full-Stack Dev | Django Specialist | Security Enthusiast**
 
 ---
 
-### 💻 Technical Architecture & Stack
+### "If you can't secure the hardware, you can't trust the software."
+*Transitioning from a background in network infrastructure and enterprise hardware to building high-integrity web systems.*
 
-**Backend Engineering & Data:**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/Django_REST-a30000?style=for-the-badge&logo=django&logoColor=white) ![Django Channels](https://img.shields.io/badge/Channels-2C8E67?style=for-the-badge&logo=django&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+[LinkedIn](#) • [Email](mailto:siyadhkc@example.com)
 
-**Client-Side & UI:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+---
+</div>
 
-**DevOps & Infrastructure:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🛠 What I’m up to
+I’ve spent the last few years working with the physical side of tech—networking, CCTV, and hardware deployment. Now, I’m applying that "system-wide" perspective to full-stack development. I don’t just want to build apps that work; I want to build apps that are secure by design.
 
-**Security & Networking Operations:**
-![OWASP Top 10](https://img.shields.io/badge/OWASP_API_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white) ![Web Pentesting](https://img.shields.io/badge/Web_Pentesting-B32025?style=for-the-badge&logo=kalilinux&logoColor=white) ![Vulnerability Research](https://img.shields.io/badge/API_Vulnerability_Research-5C6BC0?style=for-the-badge&logo=bugcrowd&logoColor=white) ![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge) ![Network Infrastructure](https://img.shields.io/badge/Network_Infrastructure-1572B6?style=for-the-badge) ![Hardware Deployment](https://img.shields.io/badge/Enterprise_Hardware-4D4D4D?style=for-the-badge)
-
+* 🔭 **Current Project:** Building a **Secure Asset Management & Audit System** using Django and React. It’s a deep dive into role-based access control and real-time tracking.
+* ⚡ **The Goal:** 2026 is about consistency. I'm pushing code every day to master API security and the Django ecosystem.
+* 🛡️ **Learning:** Currently breaking things (legally) to learn the OWASP API Top 10.
 
 ---
 
-**Open Source**
+### 🧰 The Stack
 
-Actively contributing to production Django codebases — NetBox, Wagtail.
+**The Heavy Lifting (Backend)**
+* **Core:** Python, Django, Django REST Framework
+* **Real-time & Async:** Django Channels, Celery, Redis
+* **Database & Auth:** PostgreSQL, JWT, Pytest
+
+**The Interface (Frontend)**
+* React, JavaScript (ES6+), TailwindCSS
+
+**Infrastructure & Security**
+* **Ops:** Docker, Nginx, Gunicorn, Linux (Kali/Ubuntu)
+* **Networking:** TCP/IP, Enterprise Hardware Deployment, Network Infrastructure
+* **Security:** API Pentesting, Vulnerability Research
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=siyadhkc&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=8b949e" height="140" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=siyadhkc&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=8b949e&dates=8b949e" height="140" />
+### 📈 Progress Report
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siyadhkc&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siyadhkc&theme=dark&hide_border=true&background=0D1117&sideNums=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF" height="170" />
+</div>
+
+---
+
+### 📁 Projects worth checking out
+* **[Secure-Asset-Manager](https://github.com/siyadhkc)**: My main focus. A system to track and audit assets with a heavy focus on back-end security.
+* **[API-Security-Lab](https://github.com/siyadhkc)**: A collection of scripts and notes from my security research.
+
+---
+<p align="center"><i>Building systems that last.</i></p>
