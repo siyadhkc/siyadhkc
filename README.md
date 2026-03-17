@@ -35,7 +35,7 @@ Identifying and mitigating vulnerabilities before they reach production.
 ---
 
 ### 🧰 Infrastructure & Systems
-* **Ops:** Docker, Nginx, Gunicorn, Linux (Ubuntu/Kali)
+* **Ops:** Docker, Nginx, Gunicorn, Linux (Ubuntu/Kali).
 * **Networking:** TCP/IP, network topology, and enterprise hardware deployment.
 
 ---
