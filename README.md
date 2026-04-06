@@ -1,63 +1,45 @@
-<div align="center">
-
-# Siyadh KC
-
-**Security-Focused Django Backend Developer · Web Pentester**
-
-*Writing hardened Python code by day, and hunting for its vulnerabilities by night.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siyadhkc)
-[![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white)](mailto:siyadhkc@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/siyadhkc)
-
+"[<div align="center">
+# SIYADH KC
+### Backend Engineer | AppSec | Web Pentester
+---
+*Building secure, scalable backends. Stress-testing them from the outside in.*
+[LinkedIn](www.linkedin.com/in/siyadhkc) • [Email](mailto:siyadhkc@gmail.com.com)
 </div>
-
+### 🛠 The Builder-Breaker Mindset
+My development workflow is cyclical. I build high-performance, asynchronous backends using **Django, Celery, and PostgreSQL**, then I pivot to my **Offensive Security** workflow to stress-test every API endpoint, authentication flow, and data handling process. 
+I don't just develop; I perform security research on my own infrastructure to ensure it is hardened against modern attack vectors.
 ---
-
-## 👋 About Me
-
-I am a Backend Developer who specializes in building high-security server-side architectures. While my primary focus is engineering robust systems with **Django**, my background as a **Web Pentester** allows me to write code that is inherently resistant to common attack vectors. I don’t just implement features; I secure them against the OWASP Top 10 from the very first line of code.
-
+### 🛡️ Core Competencies
+#### **1. Backend Architecture**
+Building scalable, secure-by-default server-side systems.
+* **Core:** Python, Django, DRF, Django Channels
+* **Async/Cache:** Celery, Redis
+* **Database:** PostgreSQL, JWT, Pytest (TDD)
+#### **2. Offensive Security & AppSec**
+Identifying and mitigating vulnerabilities before they reach production.
+* **API Security:** Focus on OWASP API Top 10 (BOLA, BFLA, Injection flaws).
+* **Pentesting:** Web application & API pentesting, identifying logic flaws.
+* **Tooling:** Burp Suite, Nmap, custom automation scripts.
 ---
-
-## 🛠 My Toolkit
-
-**Django & Backend Engineering**
-`Python (Django/DRF)` `FastAPI` `PostgreSQL` `Redis` `Celery` `JWT Auth`
-
-**Offensive Security & Pentesting**
-`Web & API Pentesting` `Burp Suite` `OWASP Methodologies` `Nmap` `SQLi/XSS Auditing`
-
-**Infrastructure & Tunnelling**
-`Network Security` `Shadow-Gate (Custom Tunnels)` `Docker` `Nginx` `Linux Architecture`
-
+### 🧰 Infrastructure & Systems
+* **Ops:** Docker, Nginx, Gunicorn, Linux (Ubuntu/Kali).
+* **Networking:** TCP/IP, network topology, and enterprise hardware deployment.
 ---
-
-## 🚀 Projects
-
-### [Savor (Food Delivery)](https://github.com/siyadhkc/food-delivery.git)
-A production-grade Django project showcasing secure multi-tenancy and isolated workspaces. It serves as a blueprint for building scalable, hardened SaaS backends.
-
-### [Shadow-Gate](https://github.com/siyadhkc/shadow-gate)
-My specialized network infrastructure project—a self-hosted tunneling client designed to provide secure, encrypted access to local services without third-party reliance.
-
-### [Jray](https://github.com/siyadhkc/Jray.git)
-A utility for JSON transformation and schema validation. Focused on clean CLI performance and reliable data processing.
-
-### [API-Security-Lab](https://github.com/siyadhkc/API-Security-Lab)
-My research hub for offensive security. I use this space to document pentesting methodologies, vulnerability writeups, and security automation scripts.
-
----
-
-## 📊 My Activity
-
+### 📈 Current Operations
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siyadhkc&show_icons=true&theme=default&hide_border=true&title_color=333333&text_color=555555&icon_color=333333" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siyadhkc&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siyadhkc&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siyadhkc&theme=dark&hide_border=true&background=0D1117&sideNums=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF" height="170" />
 </div>
-
 ---
+### 📂 Active Projects.
+### [Savor](https://github.com/siyadhkc/savor)
+A production-ready multi-tenant SaaS platform with isolated workspaces, role-based access control, and a scalable backend architecture designed for teams.
 
-<div align="center">
-  <sub>Code Hardened. Perimeter Verified.</sub>
-</div>
+### [Jray](https://github.com/siyadhkc/jray)
+A lightweight JSON file converter utility — supports format transformation, schema validation, and batch processing with a clean CLI interface.
+
+### [MockAPI Pro](https://github.com/siyadhkc)
+A self-hostable mock API server with team workspaces, rule engine, OpenAPI import, and AI-powered response generation.
+---
+<p align="center"><i>I build it, I break it, I secure it.</i></p>
+](https://jqlang.org/)"
