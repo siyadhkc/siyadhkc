@@ -2,9 +2,9 @@
 
 # Siyadh KC
 
-**AppSec Engineer · Full Stack Developer · Network Security**
+**Security-Focused Django Backend Developer · Web Pentester**
 
-*Architecting secure network tunnels and resilient backends — then auditing them for total compromise.*
+*Writing hardened Python code by day, and hunting for its vulnerabilities by night.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siyadhkc)
 [![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white)](mailto:siyadhkc@gmail.com)
@@ -14,42 +14,42 @@
 
 ---
 
-## 🛠️ About
+## 👋 About Me
 
-I am an Application Security specialist and Full Stack Developer with a deep-rooted background in network infrastructure. My approach bridges the gap between secure systems engineering and offensive security. From developing self-hosted tunneling protocols to conducting deep-dive API penetration tests, I focus on building software that remains resilient under adversarial conditions.
-
----
-
-## 💻 Technical Arsenal
-
-**Core Development**
-`Python (Django)` `JavaScript (React)` `C` `PostgreSQL` `Redis` `Celery`
-
-**Infrastructure & Networking**
-`Network Security Systems` `Shadow-Gate (Self-hosted Tunnels)` `Docker` `Nginx` `Linux (Kali/Ubuntu)`
-
-**Offensive Security**
-`Web & API Pentesting` `Burp Suite` `OWASP Top 10` `Nmap` `Custom Security Automation`
+I am a Backend Developer who specializes in building high-security server-side architectures. While my primary focus is engineering robust systems with **Django**, my background as a **Web Pentester** allows me to write code that is inherently resistant to common attack vectors. I don’t just implement features; I secure them against the OWASP Top 10 from the very first line of code.
 
 ---
 
-## 🚀 Key Projects
+## 🛠 My Toolkit
 
-### [Shadow-Gate](https://github.com/siyadhkc/food-delivary)
-A high-performance, self-hosted network infrastructure project similar to a Cloudflare tunnel. Engineered to provide secure, encrypted access to local services through a custom-built tunnel client.
+**Django & Backend Engineering**
+`Python (Django/DRF)` `FastAPI` `PostgreSQL` `Redis` `Celery` `JWT Auth`
 
-### [Savor](https://github.com/siyadhkc/savor)
-A production-grade multi-tenant SaaS platform featuring isolated workspaces and strict RBAC, designed for high-concurrency environments.
+**Offensive Security & Pentesting**
+`Web & API Pentesting` `Burp Suite` `OWASP Methodologies` `Nmap` `SQLi/XSS Auditing`
 
-### [Premium Electronics Store](https://github.com/siyadhkc)
-An e-commerce storefront built with React and Bootstrap, focusing on high-end minimalism and a seamless user experience.
+**Infrastructure & Tunnelling**
+`Network Security` `Shadow-Gate (Custom Tunnels)` `Docker` `Nginx` `Linux Architecture`
+
+---
+
+## 🚀 Projects
+
+### [Savor (Food Delivery)](https://github.com/siyadhkc/food-delivery.git)
+A production-grade Django project showcasing secure multi-tenancy and isolated workspaces. It serves as a blueprint for building scalable, hardened SaaS backends.
+
+### [Shadow-Gate](https://github.com/siyadhkc/shadow-gate)
+My specialized network infrastructure project—a self-hosted tunneling client designed to provide secure, encrypted access to local services without third-party reliance.
+
+### [Jray](https://github.com/siyadhkc/Jray.git)
+A utility for JSON transformation and schema validation. Focused on clean CLI performance and reliable data processing.
 
 ### [API-Security-Lab](https://github.com/siyadhkc/API-Security-Lab)
-A research-driven repository documenting methodologies for Web Application Security and vulnerability analysis, specifically targeting the OWASP API Top 10.
+My research hub for offensive security. I use this space to document pentesting methodologies, vulnerability writeups, and security automation scripts.
 
 ---
 
-## 📊 Analytics
+## 📊 My Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siyadhkc&show_icons=true&theme=default&hide_border=true&title_color=333333&text_color=555555&icon_color=333333" height="165" />
@@ -59,5 +59,5 @@ A research-driven repository documenting methodologies for Web Application Secur
 ---
 
 <div align="center">
-  <sub>Network hardened. Code secured.</sub>
+  <sub>Code Hardened. Perimeter Verified.</sub>
 </div>
