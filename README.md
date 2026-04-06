@@ -1,57 +1,63 @@
 <div align="center">
 
-# SIYADH KC
-### Backend Engineer | AppSec | Web Pentester
+# Siyadh KC
 
----
-*Building secure, scalable backends. Stress-testing them from the outside in.*
+**AppSec Engineer · Full Stack Developer · Network Security**
 
-[LinkedIn](www.linkedin.com/in/siyadhkc) • [Email](mailto:siyadhkc@gmail.com.com)
+*Architecting secure network tunnels and resilient backends — then auditing them for total compromise.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siyadhkc)
+[![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white)](mailto:siyadhkc@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/siyadhkc)
 
 </div>
 
-### 🛠 The Builder-Breaker Mindset
-My development workflow is cyclical. I build high-performance, asynchronous backends using **Django, Celery, and PostgreSQL**, then I pivot to my **Offensive Security** workflow to stress-test every API endpoint, authentication flow, and data handling process. 
+---
 
-I don't just develop; I perform security research on my own infrastructure to ensure it is hardened against modern attack vectors.
+## 🛠️ About
+
+I am an Application Security specialist and Full Stack Developer with a deep-rooted background in network infrastructure. My approach bridges the gap between secure systems engineering and offensive security. From developing self-hosted tunneling protocols to conducting deep-dive API penetration tests, I focus on building software that remains resilient under adversarial conditions.
 
 ---
 
-### 🛡️ Core Competencies
+## 💻 Technical Arsenal
 
-#### **1. Backend Architecture**
-Building scalable, secure-by-default server-side systems.
-* **Core:** Python, Django, DRF, Django Channels
-* **Async/Cache:** Celery, Redis
-* **Database:** PostgreSQL, JWT, Pytest (TDD)
+**Core Development**
+`Python (Django)` `JavaScript (React)` `C` `PostgreSQL` `Redis` `Celery`
 
-#### **2. Offensive Security & AppSec**
-Identifying and mitigating vulnerabilities before they reach production.
+**Infrastructure & Networking**
+`Network Security Systems` `Shadow-Gate (Self-hosted Tunnels)` `Docker` `Nginx` `Linux (Kali/Ubuntu)`
 
-* **API Security:** Focus on OWASP API Top 10 (BOLA, BFLA, Injection flaws).
-* **Pentesting:** Web application & API pentesting, identifying logic flaws.
-* **Tooling:** Burp Suite, Nmap, custom automation scripts.
+**Offensive Security**
+`Web & API Pentesting` `Burp Suite` `OWASP Top 10` `Nmap` `Custom Security Automation`
 
 ---
 
-### 🧰 Infrastructure & Systems
-* **Ops:** Docker, Nginx, Gunicorn, Linux (Ubuntu/Kali).
-* **Networking:** TCP/IP, network topology, and enterprise hardware deployment.
+## 🚀 Key Projects
+
+### [Shadow-Gate](https://github.com/siyadhkc/food-delivary)
+A high-performance, self-hosted network infrastructure project similar to a Cloudflare tunnel. Engineered to provide secure, encrypted access to local services through a custom-built tunnel client.
+
+### [Savor](https://github.com/siyadhkc/savor)
+A production-grade multi-tenant SaaS platform featuring isolated workspaces and strict RBAC, designed for high-concurrency environments.
+
+### [Premium Electronics Store](https://github.com/siyadhkc)
+An e-commerce storefront built with React and Bootstrap, focusing on high-end minimalism and a seamless user experience.
+
+### [API-Security-Lab](https://github.com/siyadhkc/API-Security-Lab)
+A research-driven repository documenting methodologies for Web Application Security and vulnerability analysis, specifically targeting the OWASP API Top 10.
 
 ---
 
-### 📈 Current Operations
+## 📊 Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siyadhkc&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siyadhkc&theme=dark&hide_border=true&background=0D1117&sideNums=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siyadhkc&show_icons=true&theme=default&hide_border=true&title_color=333333&text_color=555555&icon_color=333333" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siyadhkc&theme=default&hide_border=true" height="165" />
 </div>
 
 ---
 
-### 📂 Active Projects.
-* **[MockAPI Pro](https://github.com/siyadhkc)**: a self-hostable mock API server with team workspaces, rule engine, OpenAPI import, and AI-powered response generation.
-* **[API-Security-Lab](https://github.com/siyadhkc)**: My research repository for pentesting methodologies and vulnerability analysis.
-
-
----
-<p align="center"><i>I build it, I break it, I secure it.</i></p>
+<div align="center">
+  <sub>Network hardened. Code secured.</sub>
+</div>
