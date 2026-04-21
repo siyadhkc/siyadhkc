@@ -9,34 +9,11 @@
 
 </div>
 
-### 🛠 The Builder-Breaker Mindset
+### 🛠 I Build . I Break . I Fix .
 My development workflow is cyclical. I build high-performance, asynchronous backends using **Django, Celery, and PostgreSQL**, then I pivot to my **Offensive Security** workflow to stress-test every API endpoint, authentication flow, and data handling process.
 
 I don't just develop; I perform security research on my own infrastructure to ensure it is hardened against modern attack vectors.
 
----
-
-### 🛡️ Core Competencies
-
-#### **1. Backend Architecture**
-Building scalable, secure-by-default server-side systems.
-* **Core:** Python, Django, DRF, Django Channels
-* **Async/Cache:** Celery, Redis
-* **Database:** PostgreSQL, JWT, Pytest (TDD)
-
-#### **2. Offensive Security & AppSec**
-Identifying and mitigating vulnerabilities before they reach production.
-* **API Security:** Focus on OWASP API Top 10 (BOLA, BFLA, Injection flaws).
-* **Pentesting:** Web application & API pentesting, identifying logic flaws.
-* **Tooling:** Burp Suite, Nmap, custom automation scripts.
-
----
-
-### 🧰 Infrastructure & Systems
-* **Ops:** Docker, Nginx, Gunicorn, Linux (Ubuntu/Kali).
-* **Networking:** TCP/IP, network topology, and enterprise hardware deployment.
-
----
 
 ### 📈 Current Operations
 
