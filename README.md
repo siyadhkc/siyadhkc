@@ -12,7 +12,7 @@
 </div>
 
 ### 🛠 I Build . I Break . I Fix .
-My development workflow is cyclical. I build high-performance, asynchronous backends using **Django, Celery, and PostgreSQL**, then I pivot to my **Offensive Security** workflow to stress-test every API endpoint, authentication flow, and data handling process.
+My development workflow is cyclical. I build high-performance, asynchronous backends using **Django, React, Celery, and PostgreSQL**, then I pivot to my **Offensive Security** workflow to stress-test every API endpoint, authentication flow, and data handling process.
 
 I don't just develop; I perform security research on my own infrastructure to ensure it is hardened against modern attack vectors.
 
