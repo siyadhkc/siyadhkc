@@ -1,30 +1,47 @@
 <div align="center">
 
 # SIYADH KC
-**Backend Engineer** • **AppSec** • **Web Pentester**
 
-`Building secure backends` | `Breaking them from the outside in`
-
-[LinkedIn](https://www.linkedin.com/in/siyadhkc) • [Email](mailto:siyadhkc@gmail.com)
-
----
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Application+Security;Web+Pentester;Offensive+Security+Researcher" />
 
 </div>
 
-### 🛠 I Build . I Break . I Fix .
-My development workflow is cyclical. I build high-performance, asynchronous backends using **Django, React, Celery, and PostgreSQL**, then I pivot to my **Offensive Security** workflow to stress-test every API endpoint, authentication flow, and data handling process.
+---
 
-I don't just develop; I perform security research on my own infrastructure to ensure it is hardened against modern attack vectors.
+```python id="o49oyg"
+class Siyadh:
 
-### 📈 Current Operations
+    def __init__(self):
+        self.role = [
+            "Backend Engineer",
+            "Application Security",
+            "Web Pentester"
+        ]
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siyadhkc&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&cache_seconds=1800" height="150" alt="Stats" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=siyadhkc&theme=dark&hide_border=true&background=0D111700&sideNums=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&fire=58A6FF&ring=58A6FF&currStreakLabel=58A6FF" height="150" alt="Streak" />
-</p>
+        self.stack = {
+            "backend": ["Python", "Django", "PostgreSQL", "Redis"],
+            "infra": ["Docker", "AWS", "Linux"],
+            "security": ["Burp Suite", "OWASP", "Wireshark", "Kali Linux"]
+        }
+
+        self.focus = [
+            "API Security",
+            "Secure Architecture",
+            "Offensive Research",
+            "Attack Surface Analysis"
+        ]
+
+    def current_state(self):
+        return "Building • Breaking • Securing"
+```
 
 ---
 
-<p align="center">
-  <sub><i>I build it. I break it. I secure it.</i></sub>
-</p>
+<div align="center">
+
+[LinkedIn](https://linkedin.com/in/siyadhkc) •
+[X](https://x.com/siyadhkc) •
+[Dev.to](https://dev.to/siyadhkc) •
+[Email](mailto:siyadhkc@gmail.com)
+
+</div>
