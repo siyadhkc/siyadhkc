@@ -8,6 +8,10 @@
 
 Building secure systems with a focus on backend architecture, application security, and offensive research.
 
+<br>
+
+> *"The impediment to action advances action. What stands in the way becomes the way."*
+
 </div>
 
 ---
