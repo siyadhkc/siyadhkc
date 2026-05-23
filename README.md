@@ -2,46 +2,39 @@
 
 # SIYADH KC
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Application+Security;Web+Pentester;Offensive+Security+Researcher" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Backend+Engineering;Application+Security;Web+Pentesting;Offensive+Research" />
+
+<br>
+
+Building secure systems with a focus on backend architecture, application security, and offensive research.
 
 </div>
 
 ---
 
-```python id="o49oyg"
-class Siyadh:
+```txt
+Languages     : Python · C · JavaScript
 
-    def __init__(self):
-        self.role = [
-            "Backend Engineer",
-            "Application Security",
-            "Web Pentester"
-        ]
+Backend       : Django · REST APIs · PostgreSQL · Redis
 
-        self.stack = {
-            "backend": ["Python", "Django", "PostgreSQL", "Redis"],
-            "infra": ["Docker", "AWS", "Linux"],
-            "security": ["Burp Suite", "OWASP", "Wireshark", "Kali Linux"]
-        }
+Infrastructure: Docker · Linux · AWS · Git
 
-        self.focus = [
-            "API Security",
-            "Secure Architecture",
-            "Offensive Research",
-            "Attack Surface Analysis"
-        ]
+Security      : Burp Suite · OWASP · Wireshark · Nmap · Postman
 
-    def current_state(self):
-        return "Building • Breaking • Securing"
+Focus         : API Security
+                Attack Surface Analysis
+                Secure Architecture
+                Offensive Research
 ```
 
 ---
 
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/siyadhkc) •
-[X](https://x.com/siyadhkc) •
-[Dev.to](https://dev.to/siyadhkc) •
+[LinkedIn](https://linkedin.com/in/siyadhkc) ·
+[X](https://x.com/siyadhkc) ·
+[Dev.to](https://dev.to/siyadhkc) ·
+[substack](https://substack.com/@siyadhkc) ·
 [Email](mailto:siyadhkc@gmail.com)
 
 </div>
