@@ -17,18 +17,23 @@ Building secure systems with a focus on backend architecture, application securi
 ---
 
 ```txt
-Languages     : Python · C · JavaScript
+Languages     : Python · JavaScript · C · Bash
 
-Backend       : Django · REST APIs · PostgreSQL · Redis
+Backend       : Django · DRF · PostgreSQL · Redis · Celery
+                WebSockets · REST APIs · JWT · OAuth2
 
-Infrastructure: Docker · Linux · AWS · Git
+Frontend      : React · HTML · CSS · Tailwind
 
-Security      : Burp Suite · OWASP · Wireshark · Nmap · Postman
+Infrastructure: Docker · Linux · Git · AWS · Nginx
 
-Focus         : API Security
-                Attack Surface Analysis
-                Secure Architecture
+Security      : Burp Suite · Nmap · Wireshark · Metasploit · Postman
+                OWASP API Top 10 · Web Pentesting · API Security
+                Attack Surface Analysis · Threat Modeling
+
+Focus         : API Security Engineering
+                Secure Backend Architecture
                 Offensive Research
+                AppSec
 ```
 
 ---
